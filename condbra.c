@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void main(){
-    int a;
+    int a,num;
     printf("数値を入力:");
     scanf("%d",&a);
     if(a > 5){
